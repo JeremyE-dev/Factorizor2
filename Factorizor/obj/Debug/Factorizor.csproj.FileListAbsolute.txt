@@ -1,0 +1,7 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\01-Basics\Assessments\Factorizor\Start\Factorizor\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\Jeremy\source\repos\Factorizor1\Factorizor\bin\Debug\Factorizor.exe.config
+C:\Users\Jeremy\source\repos\Factorizor1\Factorizor\bin\Debug\Factorizor.exe
+C:\Users\Jeremy\source\repos\Factorizor1\Factorizor\bin\Debug\Factorizor.pdb
+C:\Users\Jeremy\source\repos\Factorizor1\Factorizor\obj\Debug\Factorizor.csprojAssemblyReference.cache
+C:\Users\Jeremy\source\repos\Factorizor1\Factorizor\obj\Debug\Factorizor.exe
+C:\Users\Jeremy\source\repos\Factorizor1\Factorizor\obj\Debug\Factorizor.pdb
